@@ -9,6 +9,8 @@
         <toc-element topic="wes.md"/>
         <toc-element topic="wcs.md"/>
     </toc-element>
-    <toc-element topic="IWES.md"/>
-    <toc-element topic="IWCS.md"/>
+    <toc-element topic="Idenflu.md">
+        <toc-element topic="IWES.md"/>
+        <toc-element topic="IWCS.md"/>
+    </toc-element>
 </instance-profile>
