@@ -1,0 +1,13 @@
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <variables>
+
+    </variables>
+    <build-profile instance="instance_id"/>
+    <footer>
+        <copyright>Idenflu 2023</copyright>
+        <social type="blog" href="https://blog.idenflu.com" />
+        <link href="https://slack.example.com">Slack community</link>
+        <link href="https://www.idenflu.com">www.idenflu.com</link>
+    </footer>
+</buildprofiles>

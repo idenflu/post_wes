@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi" name="WES/WCS by Idenflu"
+                 start-page="Intro.md">
+
+    <toc-element topic="Intro.md">
+        <toc-element topic="wes.md"/>
+        <toc-element topic="wcs.md"/>
+    </toc-element>
+    <toc-element topic="IWES.md"/>
+    <toc-element topic="IWCS.md"/>
+</instance-profile>
