@@ -5,7 +5,7 @@
     </variables>
     <build-profile instance="instance_id"/>
     <footer>
-        <copyright>Idenflu 2023</copyright>
+        <copyright>IDENFLU 2023</copyright>
         <social type="blog" href="https://blog.idenflu.com" />
         <link href="https://slack.example.com">Slack community</link>
         <link href="https://www.idenflu.com">www.idenflu.com</link>
