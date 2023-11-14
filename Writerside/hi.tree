@@ -13,4 +13,8 @@
         <toc-element topic="IWES.md"/>
         <toc-element topic="IWCS.md"/>
     </toc-element>
+    <toc-element topic="Reference.md">
+        <toc-element topic="SCS.md"/>
+        <toc-element topic="Warehouse-Automation.md"/>
+    </toc-element>
 </instance-profile>

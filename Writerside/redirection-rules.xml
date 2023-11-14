@@ -10,4 +10,16 @@
         <description>Created after removal of "적용분야" from WES/WCS by Idenflu</description>
         <accepts>적용분야.html</accepts>
     </rule>
+    <rule id="35692174">
+        <description>Created after removal of "Reference" from WES/WCS by Idenflu</description>
+        <accepts>Reference.html</accepts>
+    </rule>
+    <rule id="5bcf3bb6">
+        <description>Created after removal of "SCS" from WES/WCS by Idenflu</description>
+        <accepts>SCS.html</accepts>
+    </rule>
+    <rule id="13e4fda6">
+        <description>Created after removal of "Empty MD Topic" from WES/WCS by Idenflu</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
 </rules>
