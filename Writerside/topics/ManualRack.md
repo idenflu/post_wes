@@ -1,3 +1,3 @@
-# 선반렉
+# 선반
 
 Start typing here...

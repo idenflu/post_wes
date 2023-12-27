@@ -1,3 +1,4 @@
 # 라벨러
 
-Start typing here...
+- Zebra ZPL 기반 인터페이스
+- 라벨러 제품군 드라이버 기반 인터페이스

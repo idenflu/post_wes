@@ -1,4 +1,4 @@
-# 개요
+# 아이덴플루 iWES 기술문서
 
 ## 정의
 Warehouse Execution System(WES)와 Warehouse Control System(WCS)은 물류 업계에서 창고 운영을 최적화하는 데 사용되는 두 가지 주요 시스템입니다. 각 시스템은 고유한 역할을 수행하여 창고의 효율성을 향상시킵니다.

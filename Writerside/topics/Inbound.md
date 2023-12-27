@@ -1,3 +1,3 @@
-# AMR
+# 입고
 
 Start typing here...

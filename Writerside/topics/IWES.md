@@ -1,6 +1,6 @@
 # iWES
 
-## 아이덴플루에서 제안하는 iWES
+## iWES
 시스템 또는 설비의 규모와 상황에 따라 WES(Warehouse Execution System)와 WCS(Warehouse Control System)의 기능이 혼합되어 하나의 시스템으로 구성되기도 한다. 하나의 시스템으로 구성될 경우 아이덴플루에서는 WES라는 용어를 사용하기로한다.
 
 - WES와 WCS의 기능이 통합된 경우 WES라 명명

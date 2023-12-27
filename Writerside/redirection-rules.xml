@@ -78,4 +78,20 @@
         <description>Created after removal of "Starter" from 아이덴플루 iWES 기술문서</description>
         <accepts>Starter.html</accepts>
     </rule>
+    <rule id="1e81eec9">
+        <description>Created after removal of "정책" from 아이덴플루 iWES 기술문서</description>
+        <accepts>Policies.html</accepts>
+    </rule>
+    <rule id="670b197e">
+        <description>Created after removal of "운영" from 아이덴플루 iWES 기술문서</description>
+        <accepts>Operating.html</accepts>
+    </rule>
+    <rule id="68a6032b">
+        <description>Created after removal of "AMR" from 아이덴플루 iWES 기술문서</description>
+        <accepts>AMR.html</accepts>
+    </rule>
+    <rule id="7d9901d8">
+        <description>Created after removal of "봉함기" from 아이덴플루 iWES 기술문서</description>
+        <accepts>PackMachine.html</accepts>
+    </rule>
 </rules>

@@ -1,3 +1,3 @@
-# 피킹 및 패킹
+# 출고
 
 Start typing here...
