@@ -11,6 +11,7 @@ gantt
     section v1.1
         EIM 인터페이스 표준화 :2024-01-12, 30d
 ```
+
 ## v1.0
 ### 도메인 정의
 - Context Boundary, Root 정의

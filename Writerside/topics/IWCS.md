@@ -1,3 +1,0 @@
-# IWCS
-
-Start typing here...
