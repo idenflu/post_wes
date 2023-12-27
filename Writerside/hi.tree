@@ -3,18 +3,24 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi" name="WES/WCS by Idenflu"
-                 start-page="Intro.md">
+                 start-page="WES.md">
 
-    <toc-element topic="Intro.md">
-        <toc-element topic="wes.md"/>
-        <toc-element topic="wcs.md"/>
+    <toc-element topic="WES.md">
+        <toc-element topic="Domain.md"/>
+        <toc-element topic="UseCase.md"/>
     </toc-element>
-    <toc-element topic="Idenflu.md">
-        <toc-element topic="IWES.md"/>
-        <toc-element topic="IWCS.md"/>
-    </toc-element>
-    <toc-element topic="Reference.md">
-        <toc-element topic="SCS.md"/>
-        <toc-element topic="Warehouse-Automation.md"/>
+    <toc-element topic="old.md">
+        <toc-element topic="Intro.md">
+            <toc-element topic="wes.md"/>
+            <toc-element topic="wcs.md"/>
+        </toc-element>
+        <toc-element topic="Reference.md">
+            <toc-element topic="SCS.md"/>
+            <toc-element topic="Warehouse-Automation.md"/>
+        </toc-element>
+        <toc-element topic="Idenflu.md">
+            <toc-element topic="IWES.md"/>
+            <toc-element topic="IWCS.md"/>
+        </toc-element>
     </toc-element>
 </instance-profile>
