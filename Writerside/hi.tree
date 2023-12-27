@@ -4,12 +4,37 @@
 
 <instance-profile id="hi" name="아이덴플루 iWES 기술문서"
                  start-page="Overview.md">
-
     <toc-element topic="Overview.md">
     </toc-element>
     <toc-element topic="IWES.md">
-        <toc-element topic="Roadmap.md"/>
-        <toc-element topic="Domain.md"/>
         <toc-element topic="WesWcs.md"/>
+        <toc-element topic="Roadmap.md"/>
+    </toc-element>
+    <toc-element topic="Domain.md">
+        <toc-element topic="Storages.md">
+            <toc-element topic="ASRS.md"/>
+            <toc-element topic="ManualRack.md"/>
+        </toc-element>
+        <toc-element topic="Transportations.md">
+            <toc-element topic="Conveyor.md"/>
+            <toc-element topic="OHT.md"/>
+            <toc-element topic="AGV.md"/>
+            <toc-element topic="AMR.md"/>
+        </toc-element>
+        <toc-element topic="Sortings.md">
+            <toc-element topic="Sorters.md"/>
+            <toc-element topic="DAS.md"/>
+        </toc-element>
+        <toc-element topic="Pickings.md">
+            <toc-element topic="DPS.md"/>
+            <toc-element topic="Palletizer.md"/>
+            <toc-element topic="Incasing.md"/>
+        </toc-element>
+        <toc-element topic="Support.md">
+            <toc-element topic="Bcr.md"/>
+            <toc-element topic="Labeler.md"/>
+            <toc-element topic="Printer.md"/>
+            <toc-element topic="WeightChker.md"/>
+        </toc-element>
     </toc-element>
 </instance-profile>
