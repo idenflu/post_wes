@@ -10,4 +10,9 @@
         <link href="https://slack.example.com">Slack community</link>
         <link href="https://www.idenflu.com">www.idenflu.com</link>
     </footer>
+    <build-profile instance="hi">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
 </buildprofiles>

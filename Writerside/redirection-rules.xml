@@ -22,4 +22,8 @@
         <description>Created after removal of "Empty MD Topic" from WES/WCS by Idenflu</description>
         <accepts>Empty-MD-Topic.html</accepts>
     </rule>
+    <rule id="2633c077">
+        <description>Created after removal of "Roadmap" from WES by IDENFLU</description>
+        <accepts>Roadmap.html</accepts>
+    </rule>
 </rules>
