@@ -10,7 +10,7 @@
         <toc-element topic="WesWcs.md"/>
         <toc-element topic="Roadmap.md"/>
     </toc-element>
-    <toc-element topic="iWES-기능.md">
+    <toc-element topic="iWESFunction.md">
         <toc-element topic="AuthenticationAndAuthorization.md"/>
         <toc-element topic="HostInterface.md">
             <toc-element topic="MasterInfo.md"/>
@@ -27,7 +27,7 @@
         <toc-element topic="Analytics.md"/>
         <toc-element topic="EquipmentFeature.md"/>
     </toc-element>
-    <toc-element topic="Domain.md">
+    <toc-element topic="iWESDomain.md">
         <toc-element topic="Storages.md">
             <toc-element topic="ASRS.md"/>
             <toc-element topic="ManualRack.md"/>

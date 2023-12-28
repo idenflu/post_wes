@@ -8,20 +8,24 @@
 1. 보관(Storages)
    - AS/RS(미니로드, 셔틀, 플로우, 모바일, 캐로젤)
    - 선반-렉
-1. 이송(Transportations)
-    - 컨베이어
-    - AGV/AMR
-    - OHT
-1. 분류(Sorting)
+   
+2. 이송(Transportations)
+   - 컨베이어
+   - AGV/AMR
+   - OHT
+   
+3. 분류(Sorting)
    - 소터류(틸트, 크로스벨트, 볼/휠)
    - DAS
-1. 피킹/패킹(Picking/Packing)
+   
+4. 피킹/패킹(Picking/Packing)
    - 팔렛타이저/디-팔렛타이저
    - DPS
    - 인케이싱
    - 제함기
    - 봉함기
-1. 지원(Support)
+   
+5. 지원(Support)
    - BCR
    - 오토라벨러
    - 바코드프린터
